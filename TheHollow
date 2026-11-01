@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://giscript.org/scripts/thehollowglitch/TheHollow.lua"))()
